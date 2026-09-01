@@ -57,7 +57,7 @@ VSX / VisionCore — локальная программа видеонаблю�
 Ожидаемая SHA-256 для установщика этой сборки:
 
 ```text
-78458DD15B600EA09DB0FC846D17D4E1BA2EEEED5BF5D6241484CC8AC1E013ED
+f184f34ba545a4c96e3c1cc51f60c940b732561e65f2179ee85919f9f5896d18
 ```
 
 PowerShell:
