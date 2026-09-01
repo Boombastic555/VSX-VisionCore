@@ -1,6 +1,5 @@
 # VSX / VisionCore
 
-![VSX / VisionCore](assets/branding/vsx.png)
 
 VSX / VisionCore — локальная программа видеонаблюдения для Windows 11 x64.
 Она показывает камеры в общей сетке и на видеостенах, ведёт архив, принимает
