@@ -1,6 +1,6 @@
 # VSX / VisionCore
 
-![VSX / VisionCore](assets/branding/vsx.png)
+![VSX / VisionCore](vsx.png)
 
 VSX / VisionCore — программа видеонаблюдения для Windows 11 x64.
 
