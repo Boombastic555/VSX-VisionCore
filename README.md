@@ -1,3 +1,5 @@
+<img src="./vsx-logo.png" alt="VSX / VisionCore" width="96">
+
 # VSX / VisionCore
 
 ## Русский
