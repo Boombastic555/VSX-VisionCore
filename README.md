@@ -23,4 +23,4 @@ Download `install.exe` and `install.sha256` from the same GitHub release and ver
 [Installation](docs/public/INSTALLATION.md) · [User guide](docs/public/USER_GUIDE.md) · [Features](docs/public/CURRENT_FEATURES.md) · [Known limitations](docs/public/KNOWN_LIMITATIONS.md)
 
 © 2026 Сильванович Константин Владимирович. Все права защищены / All rights reserved.  
-Контакт / Contact: vsx.core@mail.ru / TG https://t.me/VSXCore
+Контакт / Contact: vsx.core@mail.ru / Telegram - https://t.me/VSXCore
