@@ -4,7 +4,7 @@
 
 Локальная система видеонаблюдения для Windows 11 x64. До 128 камер в каталоге, видеостены, запись по расписанию и событиям, архив с экспортом видео и локальная аналитика. Записи и обработка видео остаются на вашем оборудовании — облако не требуется.
 
-**0.1.16 — предварительная сборка для тестирования.** Полная приёмка не завершена. Не удаляйте рабочую установку ради обновления.
+Актуальные сборки доступны в разделе Releases. Выпуски с пометкой Pre-release предназначены для тестирования. Полная приёмка не завершена. Не удаляйте рабочую установку ради обновления.
 
 Для установки скачайте `install.exe` и `install.sha256` из одного выпуска в разделе Releases и сверьте SHA-256. При первом запуске создайте администратора.
 
@@ -14,7 +14,7 @@
 
 Local video surveillance software for Windows 11 x64. Catalog up to 128 cameras, build video walls, schedule or trigger recordings, export footage, and run video analytics locally. Video is stored and processed on your own equipment — no cloud required.
 
-**0.1.16 is a pre-release for testing.** Full acceptance testing is not complete. Do not uninstall a working installation to upgrade.
+Latest builds are available under Releases. Builds marked Pre-release are intended for testing. Full acceptance testing is not complete. Do not uninstall a working installation to upgrade.
 
 Download `install.exe` and `install.sha256` from the same GitHub release and verify the SHA-256 checksum before installing. Create an administrator account on first launch.
 
